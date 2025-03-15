@@ -1,4 +1,4 @@
 # lokesh-demo
 this is my first repository.
 <br>
-author- Lokesh Patil
+Author- Lokesh Patil
